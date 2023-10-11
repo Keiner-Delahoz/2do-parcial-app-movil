@@ -16,6 +16,9 @@
             android:name=".ShowProducts"
             android:exported="false" />
         <activity
+            android:name=".FormProduct"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
